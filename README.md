@@ -25,4 +25,4 @@ It's designed to be incredibly easy to use: paste your YouTube links, and the to
 
 ## License
 
-Distributed under the MIT License. See (MIT LICENSE)[LICENSE] for more information.
+Distributed under the MIT License. See [MIT LICENSE](LICENSE) for more information.
